@@ -1,0 +1,7 @@
+venv
+dist
+build
+dataBases
+assets/teste.jpg
+.idea
+__pycache__
